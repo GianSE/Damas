@@ -124,7 +124,7 @@ function checkForWinner() {
   if (redPieces === 0) {
     message.innerHTML = "Vencedor Azul";
   } else if (bluePieces === 0) {
-    message.innerHTML = "Cada segundo que passo ao seu lado me deixa<br> mais crente que existem anjos na Terra.<br> Amo você, minha namorada linda sz<br><br> Ass: Teu namorado Gian kkkk<br> Para: Thalia S2";
+    message.innerHTML = "Já parou imaginar o quanto que eu te amo? A conta é bem simples:<br><br>Multiplique as estrelas do céu pelas gotas dos oceanos. <br><br> Ass: Teu namorado Gian kkkk<br> Para: Thalia S2";
   }
 }
 
