@@ -121,6 +121,8 @@ function checkForWinner() {
   const bluePieces = document.querySelectorAll(".piece.blue").length;
   const message = document.getElementById("message");
 
+  message.style.textAlign = "center"; // Centraliza o texto
+
   if (redPieces === 0) {
     message.innerHTML = "Vencedor Azul";
   } else if (bluePieces === 0) {
