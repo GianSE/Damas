@@ -124,7 +124,7 @@ function checkForWinner() {
   message.style.textAlign = "center"; // Centraliza o texto
 
   if (redPieces === 0) {
-    message.innerHTML = "Vencedor Azul";
+    message.innerHTML = "Thalia é freguês do próprio namorado KKKK <br><br> Ass: Teu namorado";
   } else if (bluePieces === 0) {
     message.innerHTML = "Não fique convencida, deixei você ganhar essa só porque EU TE AMO sz KKKKK <br><br> Ass: Teu namorado Gian<br> Para: Thalia S2";
   }
